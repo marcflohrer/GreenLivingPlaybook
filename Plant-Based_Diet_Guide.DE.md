@@ -8,8 +8,6 @@ Wenn du dich entschieden hast, deinen Beitrag zur Klimakrise und zum Tierleid zu
 
 Eine pflanzenbasierte Ernährung bietet eine Vielzahl von Vorteilen, die sich sowohl auf das individuelle Wohlbefinden als auch auf die Gesellschaft und die Umwelt auswirken. Diese Vorteile lassen sich in zwei Hauptkategorien unterteilen: persönliche Vorteile und gesellschaftliche Vorteile.
 
-## Warum pflanzenbasierte Ernährung?
-
 Bevor wir auf die gesundheitlichen Vorteile einer pflanzenbasierten Ernährung eingehen, ist es wichtig zu betonen, dass nicht alle pflanzlichen Lebensmittel automatisch gesund sind. Insbesondere hochverarbeitete pflanzliche Lebensmittel können genauso ungesund sein wie ihre tierischen Pendants. Diese stark verarbeiteten Produkte enthalten oft hohe Mengen an Zucker, ungesunden Fetten und Salz und können in ihrer Nährstoffdichte stark reduziert sein.
 
 Um die vollen gesundheitlichen Vorteile einer pflanzenbasierten Ernährung zu nutzen, sollte der Fokus auf unverarbeiteten oder minimal verarbeiteten Lebensmitteln liegen, wie frischem Obst und Gemüse, Vollkornprodukten, Hülsenfrüchten, Nüssen und Samen. Durch die Vermeidung von hochverarbeiteten Lebensmitteln wird das Risiko von ernährungsbedingten Gesundheitsproblemen weiter minimiert.
