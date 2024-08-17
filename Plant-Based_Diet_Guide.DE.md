@@ -145,7 +145,7 @@ Die folgenden wissenschaftlichen Studien und Berichte belegen die in diesem Leit
 3. **Vergleich von Proteinquellen und deren Umweltauswirkungen**:
    - **Artikel**: "The Protein Scorecard" (2016)
    - **Quelle**: World Resources Institute (WRI)
-   - **Link**: [WRI Webseite](https://www.wri.org/publication/protein-scorecard)
+   - **Link**: [https://www.wri.org/data/protein-scorecard](https://www.wri.org/data/protein-scorecard)
    - **Zusammenfassung**: Die Analyse vergleicht die Umweltauswirkungen verschiedener Proteinquellen und zeigt, dass pflanzliche Proteine wie Linsen und Bohnen einen deutlich geringeren CO₂-Fußabdruck haben.
 
 4. **Meta-Analyse der Umweltauswirkungen von Lebensmitteln**:
