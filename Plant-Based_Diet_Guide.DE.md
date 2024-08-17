@@ -18,27 +18,32 @@ Um die vollen gesundheitlichen Vorteile einer pflanzenbasierten Ernährung zu nu
 
 2. **Besseres Gewichtsmanagement**: Pflanzliche Lebensmittel sind in der Regel kalorienärmer und ballaststoffreicher, was zu einem längeren Sättigungsgefühl führt und beim Gewichtsmanagement hilft.
 
-3. **Geringeres Risiko für Darmkrebs**: Studien zeigen, dass der Verzehr von rotem und verarbeitetem Fleisch das Risiko für Darmkrebs erhöht. Pflanzliche Ernährung kann dieses Risiko signifikant senken.
+3. **Geringeres Risiko für verschiedene Krebsarten**: Der Verzehr von rotem Fleisch, insbesondere in unverarbeiteter Form, ist mit einem erhöhten Risiko für verschiedene Krebsarten verbunden. Dazu gehören:
+   - **Darmkrebs**: Das Risiko für Darmkrebs erhöht sich um 18% pro 100g rotes Fleisch täglich.
+   - **Magenkrebs**: Das Risiko für Magenkrebs steigt um 15-20% bei hohem Konsum.
+   - **Bauchspeicheldrüsenkrebs**: Der Konsum von 50g rotem Fleisch täglich erhöht das Risiko um 19%.
+   - **Prostatakrebs**: Das Risiko für Prostatakrebs steigt um 10-20% bei hohem Fleischkonsum.
+   - **Brustkrebs**: Der Verzehr von rotem Fleisch kann das Risiko für Brustkrebs um 6-9% erhöhen.
+   - **Leberkrebs**: Hoher Konsum von rotem Fleisch, besonders bei starker Erhitzung, erhöht das Risiko um 10-20%.
+   - **Lungenkrebs**: Ein leicht erhöhtes Risiko von 10-15% wurde bei hohem Konsum festgestellt.
 
 4. **Verbesserte Insulinsensitivität**: Eine pflanzliche Ernährung kann die Insulinsensitivität verbessern und das Risiko für Typ-2-Diabetes verringern.
 
-5. **Geringeres Risiko für bestimmte Krebsarten**: Neben Darmkrebs kann eine pflanzliche Ernährung auch das Risiko für Brust- und Prostatakrebs reduzieren.
+5. **Verbesserte Nierenfunktion**: Eine pflanzliche Ernährung reduziert die Proteinbelastung auf die Nieren, was besonders für Menschen mit Nierenerkrankungen von Vorteil ist.
 
-6. **Verbesserte Nierenfunktion**: Eine pflanzliche Ernährung reduziert die Proteinbelastung auf die Nieren, was besonders für Menschen mit Nierenerkrankungen von Vorteil ist.
+6. **Verbesserte Hautgesundheit**: Der hohe Gehalt an Vitaminen und Antioxidantien in pflanzlichen Lebensmitteln kann zu einer gesünderen Haut beitragen und Hautprobleme wie Akne reduzieren.
 
-7. **Verbesserte Hautgesundheit**: Der hohe Gehalt an Vitaminen und Antioxidantien in pflanzlichen Lebensmitteln kann zu einer gesünderen Haut beitragen und Hautprobleme wie Akne reduzieren.
+7. **Stärkeres Immunsystem**: Eine pflanzenbasierte Ernährung ist reich an Nährstoffen, die das Immunsystem stärken und Entzündungen im Körper reduzieren können.
 
-8. **Stärkeres Immunsystem**: Eine pflanzenbasierte Ernährung ist reich an Nährstoffen, die das Immunsystem stärken und Entzündungen im Körper reduzieren können.
+8. **Geringerer Schweißgeruch**: Der Verzicht auf tierische Produkte kann dazu führen, dass der Körper weniger stark riechenden Schweiß produziert.
 
-9. **Geringerer Schweißgeruch**: Der Verzicht auf tierische Produkte kann dazu führen, dass der Körper weniger stark riechenden Schweiß produziert.
+9. **Weniger Körpergeruch insgesamt**: Pflanzliche Ernährung kann den allgemeinen Körpergeruch verbessern, was auf den Verzicht auf tierische Produkte und die reichhaltige Zufuhr von Wasser und Ballaststoffen zurückzuführen ist.
 
-10. **Weniger Körpergeruch insgesamt**: Pflanzliche Ernährung kann den allgemeinen Körpergeruch verbessern, was auf den Verzicht auf tierische Produkte und die reichhaltige Zufuhr von Wasser und Ballaststoffen zurückzuführen ist.
+10. **Erhöhte Energie und Vitalität**: Viele Menschen berichten von mehr Energie und einem besseren allgemeinen Wohlbefinden nach der Umstellung auf eine pflanzenbasierte Ernährung.
 
-11. **Erhöhte Energie und Vitalität**: Viele Menschen berichten von mehr Energie und einem besseren allgemeinen Wohlbefinden nach der Umstellung auf eine pflanzenbasierte Ernährung.
+11. **Bessere Verdauung durch höheren Ballaststoffgehalt**: Der hohe Ballaststoffgehalt pflanzlicher Lebensmittel fördert eine gesunde Verdauung und kann Verstopfung vorbeugen.
 
-12. **Bessere Verdauung durch höheren Ballaststoffgehalt**: Der hohe Ballaststoffgehalt pflanzlicher Lebensmittel fördert eine gesunde Verdauung und kann Verstopfung vorbeugen.
-
-13. **Geringeres Risiko für Fettleibigkeit**: Pflanzliche Ernährung kann dazu beitragen, Übergewicht und Fettleibigkeit vorzubeugen, da sie oft kalorienärmer und nährstoffreicher ist.
+12. **Geringeres Risiko für Fettleibigkeit**: Pflanzliche Ernährung kann dazu beitragen, Übergewicht und Fettleibigkeit vorzubeugen, da sie oft kalorienärmer und nährstoffreicher ist.
 
 ### Gesellschaftliche Vorteile
 
@@ -174,3 +179,12 @@ Der Wechsel zu einer pflanzenbasierten Ernährung ist eine effektive Methode, um
    - **Link**: [Lancet](https://www.thelancet.com/commissions/EAT)
    - **Zusammenfassung**: Der Bericht untersucht die globalen Auswirkungen der Lebensmittelproduktion und empfiehlt eine weitgehend pflanzenbasierte Ernährung zur Verbesserung der menschlichen Gesundheit und Erreichung der Nachhaltigkeitsziele.
 Diese Quellen bieten fundierte wissenschaftliche Belege für die gesundheitlichen und ökologischen Vorteile einer pflanzenbasierten Ernährung. Sie stammen aus renommierten wissenschaftlichen Journalen und internationalen Organisationen, die sich intensiv mit den Auswirkungen der Ernährung auf den ökologischen Fußabdruck beschäftigen.
+
+8. **Krebsrisiken durch den Verzehr von rotem Fleisch**:
+   - **Darmkrebs**: "Red and processed meat consumption and risk of colorectal cancer: systematic review and meta-analysis of prospective studies" (*BMJ*) – [BMJ](https://www.bmj.com/content/348/bmj.g401)
+   - **Magenkrebs**: "Meat intake and risk of stomach and esophageal adenocarcinoma within the European Prospective Investigation into Cancer and Nutrition (EPIC)" (*AJCN*) – [AJCN](https://academic.oup.com/ajcn/article/89/4/1271/4596780)
+   - **Bauchspeicheldrüsenkrebs**: "Red and processed meat consumption and risk of pancreatic cancer: meta-analysis of prospective studies" (*British Journal of Cancer*) – [BJC](https://www.nature.com/articles/6604359)
+   - **Prostatakrebs**: "Meat consumption and risk of prostate cancer in the NIH-AARP diet and health study" (*International Journal of Cancer*) – [IJC](https://onlinelibrary.wiley.com/doi/full/10.1002/ijc.22732)
+   - **Brustkrebs**: "Meat consumption and risk of breast cancer in the UK Women’s Cohort Study" (*British Journal of Cancer*) – [BJC](https://www.nature.com/articles/sj.bjc.6602857)
+   - **Leberkrebs**: "Meat intake and risk of hepatocellular carcinoma in two large US prospective cohorts" (*International Journal of Cancer*) – [IJC](https://onlinelibrary.wiley.com/doi/10.1002/ijc.27681)
+   - **Lungenkrebs**: "Red meat intake and risk of lung cancer: a meta-analysis" (*Cancer Epidemiology, Biomarkers & Prevention*) – [CEBP](https://cebp.aacrjournals.org/content/18/6/1863)
