@@ -8,7 +8,11 @@ Wenn du dich entschieden hast, deinen Beitrag zur Klimakrise und zum Tierleid zu
 
 Eine pflanzenbasierte Ernährung bietet eine Vielzahl von Vorteilen, die sich sowohl auf das individuelle Wohlbefinden als auch auf die Gesellschaft und die Umwelt auswirken. Diese Vorteile lassen sich in zwei Hauptkategorien unterteilen: persönliche Vorteile und gesellschaftliche Vorteile.
 
-### Persönliche Vorteile
+## Warum pflanzenbasierte Ernährung?
+
+Bevor wir auf die gesundheitlichen Vorteile einer pflanzenbasierten Ernährung eingehen, ist es wichtig zu betonen, dass nicht alle pflanzlichen Lebensmittel automatisch gesund sind. Insbesondere hochverarbeitete pflanzliche Lebensmittel können genauso ungesund sein wie ihre tierischen Pendants. Diese stark verarbeiteten Produkte enthalten oft hohe Mengen an Zucker, ungesunden Fetten und Salz und können in ihrer Nährstoffdichte stark reduziert sein.
+
+Um die vollen gesundheitlichen Vorteile einer pflanzenbasierten Ernährung zu nutzen, sollte der Fokus auf unverarbeiteten oder minimal verarbeiteten Lebensmitteln liegen, wie frischem Obst und Gemüse, Vollkornprodukten, Hülsenfrüchten, Nüssen und Samen. Durch die Vermeidung von hochverarbeiteten Lebensmitteln wird das Risiko von ernährungsbedingten Gesundheitsproblemen weiter minimiert.
 
 1. **Gesünderes Herz-Kreislauf-System**: Eine pflanzenbasierte Ernährung ist reich an Ballaststoffen, Antioxidantien und gesunden Fetten, die das Risiko von Herzkrankheiten senken, den Cholesterinspiegel verbessern und den Blutdruck regulieren können.
 
@@ -126,38 +130,45 @@ Wenn du dich pflanzlich ernährst, wirst du wahrscheinlich auf viele Mythen und 
 
 Der Wechsel zu einer pflanzenbasierten Ernährung ist eine effektive Methode, um deinen ökologischen Fußabdruck zu verkleinern und zur Reduzierung von Tierleid beizutragen. Mit den richtigen Informationen und einer positiven Einstellung kannst du die Herausforderungen meistern und eine gesündere, nachhaltigere Lebensweise führen. Bereite dich auf die gängigen Argumente vor und bleib flexibel in deiner Herangehensweise. Jeder Schritt in Richtung einer pflanzenbasierten Ernährung ist ein Schritt in die richtige Richtung.
 
-## Quellenachweis
+1. **Gesundheitliche Auswirkungen hochverarbeiteter Lebensmittel**:
+   - **Studie**: "Ultra-processed foods and added sugars in the US diet: evidence from a nationally representative cross-sectional study" (2016)
+   - **Quelle**: *BMJ Open*
+   - **Link**: [BMJ Open](https://bmjopen.bmj.com/content/6/3/e009892)
+   - **Zusammenfassung**: Diese Studie untersucht den Konsum von hochverarbeiteten Lebensmitteln in den USA und ihre Auswirkungen auf die Zufuhr von zugesetztem Zucker und anderen ungesunden Inhaltsstoffen. Sie zeigt, dass der Konsum dieser Lebensmittel mit erhöhten Gesundheitsrisiken verbunden ist, unabhängig davon, ob sie vegan oder nicht vegan sind.
 
-Die folgenden wissenschaftlichen Studien und Berichte belegen die in diesem Leitfaden dargestellten Vorteile einer pflanzenbasierten Ernährung sowohl für die persönliche Gesundheit als auch für die Umwelt:
+2. **NOVA-Klassifikation von Lebensmitteln**:
+   - **Quelle**: *World Public Health Nutrition Association*
+   - **Artikel**: "What are ultra-processed foods and why do they matter?"
+   - **Link**: [WPHNA](https://www.wphna.org/2018/11/what-are-ultra-processed-foods-and-why-do-they-matter/)
+   - **Zusammenfassung**: Die NOVA-Klassifikation unterteilt Lebensmittel in vier Kategorien basierend auf ihrem Verarbeitungsgrad. Hochverarbeitete Lebensmittel, die in die vierte Kategorie fallen, sind oft kalorienreich und nährstoffarm und tragen zu verschiedenen gesundheitlichen Problemen bei.
 
-1. **Reduzierung des CO₂-Fußabdrucks**:
+3. **Reduzierung des CO₂-Fußabdrucks**:
    - **Studie**: "Reducing food’s environmental impacts through producers and consumers" (2018)
    - **Quelle**: Oxford University, veröffentlicht im *Science* Journal
    - **Link**: [Science Journal](https://science.sciencemag.org/content/360/6392/987)
    - **Zusammenfassung**: Die Studie zeigt, dass eine pflanzenbasierte Ernährung den CO₂-Fußabdruck um bis zu 73% senken kann.
 
-2. **Auswirkungen der Viehwirtschaft auf das Klima**:
+4. **Auswirkungen der Viehwirtschaft auf das Klima**:
    - **Bericht**: "Livestock's Long Shadow: Environmental Issues and Options" (2006)
    - **Quelle**: United Nations Food and Agriculture Organization (FAO)
    - **Link**: [FAO Webseite](http://www.fao.org/3/a0701e/a0701e00.htm)
    - **Zusammenfassung**: Dieser Bericht zeigt, dass die Viehwirtschaft für etwa 14,5% der globalen Treibhausgasemissionen verantwortlich ist.
 
-3. **Vergleich von Proteinquellen und deren Umweltauswirkungen**:
+5. **Vergleich von Proteinquellen und deren Umweltauswirkungen**:
    - **Artikel**: "The Protein Scorecard" (2016)
    - **Quelle**: World Resources Institute (WRI)
    - **Link**: [https://www.wri.org/data/protein-scorecard](https://www.wri.org/data/protein-scorecard)
    - **Zusammenfassung**: Die Analyse vergleicht die Umweltauswirkungen verschiedener Proteinquellen und zeigt, dass pflanzliche Proteine wie Linsen und Bohnen einen deutlich geringeren CO₂-Fußabdruck haben.
 
-4. **Meta-Analyse der Umweltauswirkungen von Lebensmitteln**:
+6. **Meta-Analyse der Umweltauswirkungen von Lebensmitteln**:
    - **Studie**: "Reducing the environmental impacts of food production" (2018)
    - **Quelle**: Poore & Nemecek, veröffentlicht im *Science* Journal
    - **Link**: [Science Journal](https://science.sciencemag.org/content/360/6392/987)
    - **Zusammenfassung**: Diese Meta-Analyse fasst Daten aus rund 40.000 Farmen weltweit zusammen und zeigt, dass die Umstellung auf eine pflanzliche Ernährung den ökologischen Fußabdruck erheblich reduzieren kann.
 
-5. **Gesunde Ernährung und Nachhaltigkeit**:
+7. **Gesunde Ernährung und Nachhaltigkeit**:
    - **Bericht**: "Food in the Anthropocene: the EAT–Lancet Commission on healthy diets from sustainable food systems" (2019)
    - **Quelle**: EAT-Lancet Commission
    - **Link**: [Lancet](https://www.thelancet.com/commissions/EAT)
    - **Zusammenfassung**: Der Bericht untersucht die globalen Auswirkungen der Lebensmittelproduktion und empfiehlt eine weitgehend pflanzenbasierte Ernährung zur Verbesserung der menschlichen Gesundheit und Erreichung der Nachhaltigkeitsziele.
-
 Diese Quellen bieten fundierte wissenschaftliche Belege für die gesundheitlichen und ökologischen Vorteile einer pflanzenbasierten Ernährung. Sie stammen aus renommierten wissenschaftlichen Journalen und internationalen Organisationen, die sich intensiv mit den Auswirkungen der Ernährung auf den ökologischen Fußabdruck beschäftigen.
