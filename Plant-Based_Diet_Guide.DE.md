@@ -137,50 +137,50 @@ Der Wechsel zu einer pflanzenbasierten Ernährung ist eine effektive Methode, um
 
 ## Quellennachweis
 
-1. **Gesundheitliche Auswirkungen hochverarbeiteter Lebensmittel**:
+#### **Gesundheitliche Auswirkungen hochverarbeiteter Lebensmittel**:
    - **Studie**: "Ultra-processed foods and added sugars in the US diet: evidence from a nationally representative cross-sectional study" (2016)
    - **Quelle**: *BMJ Open*
    - **Link**: [BMJ Open](https://bmjopen.bmj.com/content/6/3/e009892)
    - **Zusammenfassung**: Diese Studie untersucht den Konsum von hochverarbeiteten Lebensmitteln in den USA und ihre Auswirkungen auf die Zufuhr von zugesetztem Zucker und anderen ungesunden Inhaltsstoffen. Sie zeigt, dass der Konsum dieser Lebensmittel mit erhöhten Gesundheitsrisiken verbunden ist, unabhängig davon, ob sie vegan oder nicht vegan sind.
 
-2. **Es gibt kein so genanntes gesundes ultra-verarbeitetes Produkt**:
+#### **Es gibt kein so genanntes gesundes ultra-verarbeitetes Produkt**:
    - **Quelle**: *World Public Health Nutrition Association*
    - **Artikel**: "There is no such thing as a healthy ultra-processed product"
    - **Link**: [WPHNA](https://www.wphna.org/htdocs/2011_aug_wn4_cam9.htm)
    - **Zusammenfassung**: Gesunde Lebensmittel und Getränke haben einen hohen Nährstoffgehalt und - in Zeiten pandemischer Fettleibigkeit - im Allgemeinen eine geringe Energiedichte. Das Gleiche gilt für die Lebensmittelsysteme, die Lebensmittelversorgung, die Ernährungsgewohnheiten und die familiären und persönlichen Ernährungsgewohnheiten und Mahlzeiten. Einige Lebensmittel sind bekannte Ausnahmen von dieser Regel. Angemessene und abwechslungsreiche traditionelle Ernährungsweisen und Mahlzeiten aus frischen und wenig verarbeiteten Lebensmitteln, die hier als Typ 1 eingestuft werden, und kulinarischen Zutaten, die hier als Typ 2 eingestuft werden, sind in der Regel gesund (1,2), auch wenn einige von ihnen Mängel aufweisen können, z. B. zu salzig sind. Im Gegensatz dazu sind industriell ultraverarbeitete Produkte in Form von verzehrfertigen oder aufwärmbaren „schnellen“ Gerichten, Snacks und Getränken in der Regel energiereich, nährstoffarm, fettig, zuckerhaltig oder salzig. Das ist der Kontext für diesen Kommentar. Sein spezifisches Thema sind ultra-verarbeitete Produkte, die als gesund bezeichnet oder suggeriert werden. Es handelt sich hierbei um ein weltweites Riesengeschäft, das - ironischerweise - durch die Besorgnis über Behinderungen und Krankheiten angeheizt wird, die zum Teil durch eine Ernährung und Ernährungsgewohnheiten verursacht werden, die zunehmend aus ultra-verarbeiteten Produkten bestehen. Ultrahochverarbeitete Produkte, die als gesundheitsfördernd angepriesen werden, werden zunehmend als Teil der globalen Lösung für die öffentliche Gesundheit angepriesen. Das sind sie aber nicht. Sie sind ein großer Teil des globalen Gesundheitsproblems, und solche Produkte, die gesundheitsbezogene Angaben machen, können das Problem durchaus noch verschärfen.
 
-3. **Reduzierung des CO₂-Fußabdrucks**:
+#### **Reduzierung des CO₂-Fußabdrucks**:
    - **Studie**: "Reducing food’s environmental impacts through producers and consumers" (2018)
    - **Quelle**: Oxford University, veröffentlicht im *Science* Journal
    - **Link**: [Science Journal](https://science.sciencemag.org/content/360/6392/987)
    - **Zusammenfassung**: Die Studie zeigt, dass eine pflanzenbasierte Ernährung den CO₂-Fußabdruck um bis zu 73% senken kann.
 
-4. **Auswirkungen der Viehwirtschaft auf das Klima**:
+#### **Auswirkungen der Viehwirtschaft auf das Klima**:
    - **Bericht**: "Livestock's Long Shadow: Environmental Issues and Options" (2006)
    - **Quelle**: United Nations Food and Agriculture Organization (FAO)
    - **Link**: [FAO Webseite](http://www.fao.org/3/a0701e/a0701e00.htm)
    - **Zusammenfassung**: Dieser Bericht zeigt, dass die Viehwirtschaft für etwa 14,5% der globalen Treibhausgasemissionen verantwortlich ist.
 
-5. **Vergleich von Proteinquellen und deren Umweltauswirkungen**:
+#### **Vergleich von Proteinquellen und deren Umweltauswirkungen**:
    - **Artikel**: "The Protein Scorecard" (2016)
    - **Quelle**: World Resources Institute (WRI)
    - **Link**: [https://www.wri.org/data/protein-scorecard](https://www.wri.org/data/protein-scorecard)
    - **Zusammenfassung**: Die Analyse vergleicht die Umweltauswirkungen verschiedener Proteinquellen und zeigt, dass pflanzliche Proteine wie Linsen und Bohnen einen deutlich geringeren CO₂-Fußabdruck haben.
 
-6. **Meta-Analyse der Umweltauswirkungen von Lebensmitteln**:
+#### **Meta-Analyse der Umweltauswirkungen von Lebensmitteln**:
    - **Studie**: "Reducing the environmental impacts of food production" (2018)
    - **Quelle**: Poore & Nemecek, veröffentlicht im *Science* Journal
    - **Link**: [Science Journal](https://science.sciencemag.org/content/360/6392/987)
    - **Zusammenfassung**: Diese Meta-Analyse fasst Daten aus rund 40.000 Farmen weltweit zusammen und zeigt, dass die Umstellung auf eine pflanzliche Ernährung den ökologischen Fußabdruck erheblich reduzieren kann.
 
-7. **Gesunde Ernährung und Nachhaltigkeit**:
+#### **Gesunde Ernährung und Nachhaltigkeit**:
    - **Bericht**: "Food in the Anthropocene: the EAT–Lancet Commission on healthy diets from sustainable food systems" (2019)
    - **Quelle**: EAT-Lancet Commission
    - **Link**: [Lancet](https://www.thelancet.com/commissions/EAT)
    - **Zusammenfassung**: Der Bericht untersucht die globalen Auswirkungen der Lebensmittelproduktion und empfiehlt eine weitgehend pflanzenbasierte Ernährung zur Verbesserung der menschlichen Gesundheit und Erreichung der Nachhaltigkeitsziele.
 Diese Quellen bieten fundierte wissenschaftliche Belege für die gesundheitlichen und ökologischen Vorteile einer pflanzenbasierten Ernährung. Sie stammen aus renommierten wissenschaftlichen Journalen und internationalen Organisationen, die sich intensiv mit den Auswirkungen der Ernährung auf den ökologischen Fußabdruck beschäftigen.
 
-8. **Krebsrisiken durch den Verzehr von rotem Fleisch**:
+#### **Krebsrisiken durch den Verzehr von rotem Fleisch**:
    - **Darmkrebs**: "Red and processed meat consumption and risk of colorectal cancer: systematic review and meta-analysis of prospective studies" (*BMJ*) – [BMJ](https://www.bmj.com/content/348/bmj.g401)
    - **Magenkrebs**: "Meat intake and risk of stomach and esophageal adenocarcinoma within the European Prospective Investigation into Cancer and Nutrition (EPIC)" (*AJCN*) – [AJCN](https://academic.oup.com/ajcn/article/89/4/1271/4596780)
    - **Bauchspeicheldrüsenkrebs**: "Red and processed meat consumption and risk of pancreatic cancer: meta-analysis of prospective studies" (*British Journal of Cancer*) – [BJC](https://www.nature.com/articles/6604359)
@@ -188,3 +188,81 @@ Diese Quellen bieten fundierte wissenschaftliche Belege für die gesundheitliche
    - **Brustkrebs**: "Meat consumption and risk of breast cancer in the UK Women’s Cohort Study" (*British Journal of Cancer*) – [BJC](https://www.nature.com/articles/sj.bjc.6602857)
    - **Leberkrebs**: "Meat intake and risk of hepatocellular carcinoma in two large US prospective cohorts" (*International Journal of Cancer*) – [IJC](https://onlinelibrary.wiley.com/doi/10.1002/ijc.27681)
    - **Lungenkrebs**: "Red meat intake and risk of lung cancer: a meta-analysis" (*Cancer Epidemiology, Biomarkers & Prevention*) – [CEBP](https://cebp.aacrjournals.org/content/18/6/1863)
+
+#### **Gesünderes Herz-Kreislauf-System**
+   - **Studie**: "Plant-Based Diets Are Associated with Lower Blood Pressure: A Systematic Review and Meta-Analysis"
+   - **Quelle**: *Journal of Hypertension* (2014)
+   - **Link**: [Journal of Hypertension](https://journals.lww.com/jhypertension/Abstract/2014/07000/Plant_based_diets_are_associated_with_lower_blood.13.aspx)
+   - **Zusammenfassung**: Diese Meta-Analyse zeigt, dass pflanzenbasierte Diäten mit einem niedrigeren Blutdruck und einem reduzierten Risiko für Herz-Kreislauf-Erkrankungen verbunden sind.
+
+   - **Studie**: "Vegetarian Dietary Patterns and Mortality in Adventist Health Study 2"
+   - **Quelle**: *JAMA Internal Medicine* (2013)
+   - **Link**: [JAMA Internal Medicine](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/1710093)
+   - **Zusammenfassung**: Die Studie zeigt, dass vegetarische und vegane Diäten mit einem reduzierten Risiko für ischämische Herzerkrankungen und eine niedrigere Gesamtmortalität verbunden sind.
+
+#### **Besseres Gewichtsmanagement**
+   - **Studie**: "Effects of Plant-Based Diets on Weight Status: A Systematic Review"
+   - **Quelle**: *Diabetes Metab Syndr Obes* (2020)
+   - **Link**: [PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7533223/)
+   - **Zusammenfassung**: Diese systematische Übersichtsarbeit bewertet Interventionsstudien, die die Auswirkungen verschiedener pflanzenbasierter Diäten auf den Body-Mass-Index und das Gewicht untersuchten. Die Mehrheit der Studien berichtete über Gewichtsreduktionen, insbesondere bei einer fettarmen veganen Ernährung im Vergleich zu einer omnivoren Ernährung. Die Ergebnisse deuten darauf hin, dass pflanzenbasierte Diäten den Gewichtsstatus in einigen Patientengruppen verbessern können.
+
+#### **Verbesserte Insulinsensitivität**
+   - **Studie**: "A plant-based diet for the prevention and treatment of type 2 diabetes"
+   - **Quelle**: *Journal of Geriatric Cardiology* (2017)
+   - **Link**: [PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5466941/)
+   - **Zusammenfassung**: Diese Studie zeigt, dass pflanzenbasierte Diäten, die reich an Hülsenfrüchten, Vollkornprodukten, Gemüse, Obst, Nüssen und Samen sind, eine wichtige Rolle bei der Prävention und Behandlung von Typ-2-Diabetes spielen. Sie betont die Bedeutung von unverarbeiteten Kohlenhydraten, gesunden Fetten und pflanzlichem Protein für die Verbesserung der Insulinsensitivität und die Verringerung von diabetesbedingten Komplikationen.
+
+#### **Verbesserte Nierenfunktion**
+   - **Studie**: "Higher Protein Intake Is Not Associated with Decreased Kidney Function in Pre-Diabetic Older Adults Following a One-Year Intervention—A Preview Sub-Study"
+   - **Quelle**: *Nutrients* (2019)
+   - **Link**: [PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6471173/)
+   - **Zusammenfassung**: Diese Studie untersuchte die Auswirkungen einer höheren Proteinzufuhr auf die Nierenfunktion bei älteren Erwachsenen mit Prädiabetes. Nach einem Jahr zeigte sich, dass eine höhere Proteinzufuhr nicht mit einer Verschlechterung der Nierenfunktion verbunden war. Die Ergebnisse legen nahe, dass eine höhere Proteinzufuhr bei prädiabetischen älteren Erwachsenen keine nachteiligen Auswirkungen auf die Nierenfunktion hat.
+
+#### **Verbesserte Hautgesundheit**
+   - **Studie**: "Veganism in acne, atopic dermatitis, and psoriasis: Benefits of a plant-based diet"
+   - **Quelle**: *Clinics in Dermatology* (2022)
+   - **Link**: [ScienceDirect](https://doi.org/10.1016/j.clindermatol.2022.09.008)
+   - **Zusammenfassung**: Diese Studie untersucht die Vorteile einer veganen Ernährung für Hauterkrankungen wie Akne, atopische Dermatitis und Psoriasis. Eine pflanzenbasierte Ernährung, ergänzt mit Vitamin B12, bietet ideale Nährstoffe zur Verbesserung und Prävention dieser Hautprobleme. Der Verzicht auf tierische Produkte hat eine schützende Wirkung gegen die Entwicklung zahlreicher Hautkrankheiten.
+
+#### **Stärkeres Immunsystem**
+   - **Studie**: "Plant-based diets, pescatarian diets and COVID-19 severity: a population-based case-control study in six countries"
+   - **Quelle**: *BMJ Nutrition, Prevention & Health* (2021)
+   - **Link**: [BMJ](https://nutrition.bmj.com/content/4/1/257)
+   - **Zusammenfassung**: Diese Studie untersuchte den Zusammenhang zwischen Ernährungsgewohnheiten und der Schwere von COVID-19-Symptomen. Die Ergebnisse zeigen, dass Personen, die eine pflanzenbasierte oder pescatarische Ernährung befolgen, eine um 73% bzw. 59% geringere Wahrscheinlichkeit für moderate bis schwere COVID-19-Symptome hatten im Vergleich zu denen, die diese Diäten nicht befolgten. Diese Ernährungsweisen könnten als Schutz vor schwerer COVID-19-Erkrankung in Betracht gezogen werden.
+
+#### **Geringerer Schweißgeruch**
+   - **Studie**: "The effect of complete caloric intake restriction on human body odour quality"
+   - **Quelle**: *Physiology & Behavior* (2019)
+   - **Link**: [PubMed](https://pubmed.ncbi.nlm.nih.gov/31130296/)
+   - **Zusammenfassung**: Diese Studie untersuchte, wie eine vollständige kalorische Einschränkung den menschlichen Körpergeruch beeinflusst. Die Ergebnisse zeigen, dass nach der Wiederaufnahme der Nahrungsaufnahme der Körpergeruch als angenehmer, attraktiver und weniger intensiv bewertet wurde. Dies deutet darauf hin, dass die Qualität der Ernährung, einschließlich des Verzichts auf bestimmte Lebensmittel, eine Rolle bei der Attraktivität und Intensität des Körpergeruchs spielen kann.
+
+#### **Erhöhte Energie und Vitalität**
+   - **Studie**: "The effects of plant-based diets on the body and the brain: a systematic review"
+   - **Quelle**: *Translational Psychiatry* (2019)
+   - **Link**: [Nature](https://www.nature.com/articles/s41398-019-0552-0)
+   - **Zusammenfassung**: Diese systematische Übersichtsarbeit untersuchte die Auswirkungen pflanzenbasierter Diäten auf den Körper und das Gehirn. Die Ergebnisse zeigen, dass pflanzenbasierte Diäten im Vergleich zu konventionellen Diäten kurzfristig bis mittelfristig positive Effekte auf den Energiestoffwechsel und die systemische Entzündung haben. Dies deutet darauf hin, dass pflanzenbasierte Ernährungsweisen zu einer erhöhten Energie und einem besseren allgemeinen Wohlbefinden beitragen können.
+
+#### **Bessere Verdauung durch höheren Ballaststoffgehalt**
+   - **Studie**: "Dietary fiber intake and risk of colorectal cancer and incident and recurrent adenoma in the Prostate, Lung, Colorectal, and Ovarian Cancer Screening Trial"
+   - **Quelle**: *American Journal of Clinical Nutrition* (2015)
+   - **Link**: [PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4588743/)
+   - **Zusammenfassung**: Diese prospektive Studie untersucht den Zusammenhang zwischen Ballaststoffaufnahme und dem Risiko für kolorektale Adenome und Krebs. Die Ergebnisse zeigen, dass eine erhöhte Ballaststoffzufuhr mit einem signifikant reduzierten Risiko für distale kolorektale Adenome und distalen Darmkrebs verbunden ist. Diese schützenden Effekte wurden besonders bei Ballaststoffen aus Getreide und Obst beobachtet.
+
+#### **Geringeres Risiko für Fettleibigkeit**
+   - **Studie**: "A plant-based diet for overweight and obesity prevention and treatment"
+   - **Quelle**: *Journal of Geriatric Cardiology* (2017)
+   - **Link**: [PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5466943/)
+   - **Zusammenfassung**: Diese Übersichtsarbeit untersucht den Zusammenhang zwischen pflanzenbasierten Ernährungsweisen und der Prävention sowie Behandlung von Übergewicht und Fettleibigkeit. Die Ergebnisse zeigen, dass pflanzenbasierte Diäten effektiv zur Gewichtsreduktion beitragen und das Risiko für Übergewicht und Fettleibigkeit senken können. Zudem bieten pflanzenbasierte Diäten eine hohe Ernährungsqualität und sind eine vielversprechende Option für das Gewichtsmanagement.
+
+#### **Verbesserte Trinkwasserqualität und reduzierter Landverbrauch**
+   - **Bericht**: "Environmental Impacts of Food Production"
+   - **Quelle**: *Our World in Data*
+   - **Link**: [Our World in Data](https://ourworldindata.org/environmental-impacts-of-food)
+   - **Zusammenfassung**: Dieser Bericht zeigt, wie die Viehwirtschaft erheblich zur Wasserverschmutzung und zum hohen Landverbrauch beiträgt, und wie pflanzliche Diäten diese Auswirkungen verringern können.
+
+#### **Erhöhte Biodiversität**
+   - **Studie**: "Global Biodiversity Scenarios for the Year 2100"
+   - **Quelle**: *Science* (2000)
+   - **Link**: [Science](https://science.sciencemag.org/content/287/5459/1770)
+   - **Zusammenfassung**: Diese Studie zeigt, wie die Reduzierung des landwirtschaftlichen Nutzungsdrucks durch pflanzenbasierte Ernährungsweisen zur Erhaltung der Biodiversität beitragen kann.
+
