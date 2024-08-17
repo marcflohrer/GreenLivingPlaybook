@@ -130,6 +130,8 @@ Wenn du dich pflanzlich ernährst, wirst du wahrscheinlich auf viele Mythen und 
 
 Der Wechsel zu einer pflanzenbasierten Ernährung ist eine effektive Methode, um deinen ökologischen Fußabdruck zu verkleinern und zur Reduzierung von Tierleid beizutragen. Mit den richtigen Informationen und einer positiven Einstellung kannst du die Herausforderungen meistern und eine gesündere, nachhaltigere Lebensweise führen. Bereite dich auf die gängigen Argumente vor und bleib flexibel in deiner Herangehensweise. Jeder Schritt in Richtung einer pflanzenbasierten Ernährung ist ein Schritt in die richtige Richtung.
 
+## Quellennachweis
+
 1. **Gesundheitliche Auswirkungen hochverarbeiteter Lebensmittel**:
    - **Studie**: "Ultra-processed foods and added sugars in the US diet: evidence from a nationally representative cross-sectional study" (2016)
    - **Quelle**: *BMJ Open*
